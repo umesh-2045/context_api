@@ -25,3 +25,5 @@ export default function ThemeBtn() {
         </label>
     );
 }
+
+// if not working dark mode please change the config in index .html , visit html file
